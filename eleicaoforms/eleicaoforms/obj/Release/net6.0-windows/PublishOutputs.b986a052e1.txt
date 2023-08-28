@@ -1,0 +1,5 @@
+C:\Users\igorp\source\repos\eleicaoforms\eleicaoforms\bin\Release\net6.0-windows\publish\eleição\eleicaoforms.exe
+C:\Users\igorp\source\repos\eleicaoforms\eleicaoforms\bin\Release\net6.0-windows\publish\eleição\eleicaoforms.dll
+C:\Users\igorp\source\repos\eleicaoforms\eleicaoforms\bin\Release\net6.0-windows\publish\eleição\eleicaoforms.deps.json
+C:\Users\igorp\source\repos\eleicaoforms\eleicaoforms\bin\Release\net6.0-windows\publish\eleição\eleicaoforms.runtimeconfig.json
+C:\Users\igorp\source\repos\eleicaoforms\eleicaoforms\bin\Release\net6.0-windows\publish\eleição\eleicaoforms.pdb
